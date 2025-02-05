@@ -1,0 +1,30 @@
+{
+  "name": "book-record-management-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RISHI17182005/Book-Record-Management-2.git"
+  },
+  "author": "rishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RISHI17182005/Book-Record-Management-2/issues"
+  },
+  "homepage": "https://github.com/RISHI17182005/Book-Record-Management-2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.9.6",
+    "open": "^10.1.0"
+  }
+}
